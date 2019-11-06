@@ -16,3 +16,6 @@ Instead of using <b>git pull</b>
 
 or
 * git rebase origin/<i>remoteBranch</i> // similar to merge
+
+##### P.S
+You can't push directly to master, you need to push to a different branch then do a pull request
