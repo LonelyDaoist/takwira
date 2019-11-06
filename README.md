@@ -11,7 +11,7 @@ The core idea behind the Feature Branch Workflow is that all feature development
 
 #### Useful git commands
 Instead of using <b>git pull</b>
-* git fetch origin/<i>remoteBranch</i>
+* git fetch origin <i>remoteBranch</i>
 * git merge origin/<i>remoteBranch</i> // merge into current branch
 
 or
